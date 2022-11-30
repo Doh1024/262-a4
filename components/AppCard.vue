@@ -25,7 +25,7 @@
 </script>
 
 <template>
-  <article class="max-w-sm bg-slate-300 p-4 rounded-md text-center ml-5 drop-shadow-md">
+  <article class="max-w-sm bg-slate-100 p-4 text-center ml-5 drop-shadow-md">
     <div>
       <h3 class="text-2xl">{{title}}</h3>
     </div>
